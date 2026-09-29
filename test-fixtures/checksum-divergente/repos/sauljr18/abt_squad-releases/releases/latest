@@ -1,0 +1,9 @@
+{
+  "tag_name": "v0.24.0-rc2",
+  "body": "origem falsa - soma divergente (Cenario C)",
+  "assets": [
+    {"name": "abt-windows-amd64.exe", "browser_download_url": "https://github.com/sauljr18/abt_squad-releases/releases/download/v0.24.0-rc2/abt-windows-amd64.exe"},
+    {"name": "abt-linux-amd64",       "browser_download_url": "https://github.com/sauljr18/abt_squad-releases/releases/download/v0.24.0-rc2/abt-linux-amd64"},
+    {"name": "checksums.txt",          "browser_download_url": "https://raw.githubusercontent.com/sauljr18/abt_squad-releases/main/test-fixtures/checksum-divergente/checksums.txt"}
+  ]
+}
